@@ -26,8 +26,7 @@
     "require": {
         "php": ">=7.0",
         "ext-json": "*",
-        "yiisoft/yii2": "^2.0.42",
-        "npm-asset/bootstrap": "^5.1.0"
+        "yiisoft/yii2": "^2.0.42"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
